@@ -10,7 +10,7 @@ git clone git@github.com:Yuriuh/express-template.git
 npm install
 ```
 
-### Run project
+## Run project
 ```
 node app.js or ts-node app.ts
 ```
